@@ -8,7 +8,6 @@
 
 ## Table of Contents
 
-- [Quick Demo](#quick-demo)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
@@ -24,13 +23,6 @@
 
 ---
 
-## Quick Demo ✅
-
-Add a few screenshots and a short demo GIF here to show the app UI.
-
-> **Tip:** add images under `/docs/screenshots/` and reference them below.
-
----
 
 ## Project Structure 🔧
 
