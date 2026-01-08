@@ -167,17 +167,74 @@ Key endpoints (mounted in `Server/server.js`):
 
 ---
 
-## Adding Screenshots 📸
+## Screenshots Gallery 📸
 
-1. Create a folder `docs/screenshots/` in the repo root.
-2. Add images: `home.png`, `product.png`, `checkout.png`, etc.
-3. Reference them in this README using Markdown:
+All screenshots live in `docs/screenshots/`. Below are the current images from that folder (click to view in the repo or on GitHub):
 
-```md
-![Home](/docs/screenshots/home.png)
-```
+- **Home**
 
-Include short captions and, if helpful, alt text for accessibility.
+  ![Home](/docs/screenshots/Home.png)
+  *Home / storefront overview*
+
+- **All Products**
+
+  ![All Products](/docs/screenshots/All_Products.png)
+  *List of all products and categories*
+
+- **Product**
+
+  ![Product](/docs/screenshots/Product.png)
+  *Product detail page with add-to-cart*
+
+- **Cart**
+
+  ![Cart](/docs/screenshots/Cart.png)
+  *Shopping cart and checkout flow initiation*
+
+- **Payment**
+
+  ![Payment](/docs/screenshots/Payment.png)
+  *Stripe checkout / payment confirmation*
+
+- **Orders**
+
+  ![Orders](/docs/screenshots/Orders.png)
+  *User order history / order details*
+
+- **Store**
+
+  ![Store](/docs/screenshots/Store.png)
+  *Vendor store listing*
+
+- **Vendor - Dashboard**
+
+  ![Vendor](/docs/screenshots/Vendor.png)
+  *Vendor portal landing page*
+
+- **Vendor - Add Items**
+
+  ![Vendor Add Items](/docs/screenshots/Vendor_addItems.png)
+  *Form to add new products*
+
+- **Vendor - Items**
+
+  ![Vendor Items](/docs/screenshots/Vendor_Items.png)
+  *Vendor product management view*
+
+- **Vendor - Orders**
+
+  ![Vendor Orders](/docs/screenshots/Vendor_ordes.png)
+  *Vendor-specific order list and status updates*
+
+- **About**
+
+  ![About](/docs/screenshots/About.png)
+  *About page*
+
+- **Contact**
+
+  ![Contact](/docs/screenshots/Contact.png)
+  *Contact / support page*
 
 ---
 
